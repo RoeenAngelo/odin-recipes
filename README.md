@@ -1,2 +1,2 @@
-# This project is to demonstrate my basic HTML knowledge
+# This project is to demonstrate my basic HTML and CSS knowledge
 
